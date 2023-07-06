@@ -1,0 +1,39 @@
+{
+  "name": "@clayzaaubert/canvix",
+  "version": "1.1.1",
+  "description": "Hello ini adalah Code yang sedikit saya ubah dari base utama yaitu knights canvas",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClayzaAubert/clayzaaubert-canvix.git"
+  },
+  "keywords": [
+    "canvas",
+    "canvas discord",
+    "canvas-discord",
+    "discord-canvas",
+    "discord canvas",
+    "djs",
+    "djs bot",
+    "bot discord",
+    "discord",
+    "html5",
+    "discord js",
+    "herokuapp",
+    "canvix",
+    "Clayza Aubert",
+    "Clayza"
+  ],
+  "author": "Clayza Aubert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClayzaAubert/clayzaaubert-canvix/issues"
+  },
+  "homepage": "https://github.com/ClayzaAubert/clayzaaubert-canvix#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fortnite-9812": "^1.0.4",
+    "fortnite": "^4.3.2",
+    "moment": "^2.29.1"
+  }
+}
